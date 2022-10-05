@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\ДЗ Семинар 4\zadacha29\bin\Debug\net6.0\zadacha29.exe
+C:\Users\User\Desktop\ДЗ Семинар 4\zadacha29\bin\Debug\net6.0\zadacha29.deps.json
+C:\Users\User\Desktop\ДЗ Семинар 4\zadacha29\bin\Debug\net6.0\zadacha29.runtimeconfig.json
+C:\Users\User\Desktop\ДЗ Семинар 4\zadacha29\bin\Debug\net6.0\zadacha29.dll
+C:\Users\User\Desktop\ДЗ Семинар 4\zadacha29\bin\Debug\net6.0\zadacha29.pdb
+C:\Users\User\Desktop\ДЗ Семинар 4\zadacha29\obj\Debug\net6.0\zadacha29.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\ДЗ Семинар 4\zadacha29\obj\Debug\net6.0\zadacha29.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\ДЗ Семинар 4\zadacha29\obj\Debug\net6.0\zadacha29.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\ДЗ Семинар 4\zadacha29\obj\Debug\net6.0\zadacha29.AssemblyInfo.cs
+C:\Users\User\Desktop\ДЗ Семинар 4\zadacha29\obj\Debug\net6.0\zadacha29.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\ДЗ Семинар 4\zadacha29\obj\Debug\net6.0\zadacha29.dll
+C:\Users\User\Desktop\ДЗ Семинар 4\zadacha29\obj\Debug\net6.0\refint\zadacha29.dll
+C:\Users\User\Desktop\ДЗ Семинар 4\zadacha29\obj\Debug\net6.0\zadacha29.pdb
+C:\Users\User\Desktop\ДЗ Семинар 4\zadacha29\obj\Debug\net6.0\zadacha29.genruntimeconfig.cache
+C:\Users\User\Desktop\ДЗ Семинар 4\zadacha29\obj\Debug\net6.0\ref\zadacha29.dll
